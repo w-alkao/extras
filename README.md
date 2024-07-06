@@ -1,2 +1,2 @@
 # extra_codes
-some codes for training
+some extra codes for training
